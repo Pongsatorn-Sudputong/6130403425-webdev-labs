@@ -1,0 +1,22 @@
+body {
+    margin-left: auto;
+    margin-right: auto;
+    border: 2px solid black;
+    width: 800px;
+    height: 666px;
+    margin-top: 0px;
+    background-color: cornflowerblue;
+    font-family: 'Roboto', sans-serif;
+}
+
+main {
+    margin-top: -20px;
+    background-color: burlywood;
+}
+.topic {
+    text-align: center;
+}
+
+.content {
+    margin-left: 0.5rem;
+}

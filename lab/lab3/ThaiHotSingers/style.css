@@ -1,0 +1,23 @@
+body {
+    font-size: 16px;
+    text-align: center;
+}
+
+table, th, td {
+    margin: auto;
+    border: 1px solid black;
+    border-collapse: collapse;
+    padding: 20px;
+}
+
+table {
+    width: 100%;
+}
+
+thead {
+    background-color: lightyellow;
+}
+
+.eventh-row {
+    background-color: lightblue;
+}
