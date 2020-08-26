@@ -1,0 +1,33 @@
+body {
+    font-size: 16px;
+}
+
+p {
+    padding-left: 215px;
+}
+
+table, th, td {
+    border-collapse: collapse;
+    padding: 20px;
+    border: 1px solid black;
+}
+
+th, td {
+    text-align: right;
+}
+
+tr :nth-child(1) {
+    text-align: center;
+}
+
+tr :nth-child(2) {
+    text-align: left;
+}
+
+tr :nth-child(4) {
+    background-color: yellow;
+}
+
+tr :nth-child(6) {
+    background-color: red;
+}
